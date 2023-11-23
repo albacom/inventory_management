@@ -1,0 +1,25 @@
+{
+    "scaffolds": [
+        {
+            "id": 1,
+            "item": "SK1234",
+            "quantity": 10,
+            "description": "Scaffold Lorem ipsum dolor sit amet, consectetur adipiscing elit,",
+            "notes": "Notes Lorem ipsum dolor sit amet, consectetur adipiscing elit,"
+        },
+        {
+            "id": 2,
+            "item": "SK1235",
+            "quantity": 25,
+            "description": "Scaffold Lorem ipsum dolor sit amet, consectetur adipiscing elit,",
+            "notes": "Notes Lorem ipsum dolor sit amet, consectetur adipiscing elit,"
+        },
+        {
+            "id": 3,
+            "item": "SK1236",
+            "quantity": 30,
+            "description": "Scaffold Lorem ipsum dolor sit amet, consectetur adipiscing elit,",
+            "notes": "Notes Lorem ipsum dolor sit amet, consectetur adipiscing elit,"
+        }
+    ]
+}

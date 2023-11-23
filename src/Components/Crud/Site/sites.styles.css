@@ -1,0 +1,114 @@
+/* FORM */
+
+.form{
+    margin-top: 30px;
+    background: #ffffff;
+    width:500px;
+    height: 220px;
+    padding:  10px;
+}
+
+.element-wrapper, .elements-wrapper{
+    float: left;
+    width: 100%;
+}
+.elements-wrapper .element-wrapper:first-child{
+    float: left;
+    width:66%
+}
+.elements-wrapper .element-wrapper:last-child{
+    float: right;
+    width:32%;
+}
+.element-wrapper{
+  
+}
+
+.form .form-info{
+    color: #333333;
+    font-size: 0.4em;
+    display:block;
+    float: left;
+}
+.form .form-info span{
+    color: #1264a3;
+    font-size: 1.2em;
+    font-weight: bold;
+    border: none;
+}
+
+.form label, .form input, .form select{
+    width:100%;
+    height: 20px;
+    display:block;
+    float: left;
+    color: #333333;
+    font-size: 0.4em;
+    background: #ededf3;
+    text-align: left;
+    border: none;
+    border-radius: 3px;
+}
+
+.form label{
+    background: none;
+}
+
+.cancel-form-btn, .save-form-btn{
+    padding: 4px;
+    border:none;
+    border-radius: 3px;
+    color:#ffffff;
+    margin-top: 60px;
+    margin-bottom: 20px;
+    float: right;
+}
+
+.cancel-form-btn{
+    background: #fe5755 ;
+}
+.save-form-btn{
+    background: #71cf48 ;
+    margin-left: 20px;
+}
+
+.form span{
+    border-left: #a39c9c 1px solid;
+    padding: 2px;
+    opacity: 0.5;
+}
+
+/* SHOW SITE */
+._link{
+    text-decoration: none;
+    font-size: 16px;
+    background: #1264a3;
+    color: #ffffff;
+}
+
+.back-button{
+    margin: 0;
+    background: #1264a3;
+    color: #ffffff;
+    border-style: none;
+    border-radius: 3px; 
+    
+    position: absolute;
+    left: 20%;
+    bottom: 10px;
+     
+}
+
+.site-categories{
+    list-style: none;
+    margin: 0 auto;
+    padding: 10px;
+}
+.site-category{
+    background: #f2f3f3;
+    margin: 5px;
+    border-radius: 3px;
+    text-align: center;
+    font-size: 0.8em;
+    padding: 4px;
+}

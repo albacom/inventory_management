@@ -1,0 +1,44 @@
+tr th{
+    text-align: left;
+    padding-left: 40px;
+    font-size: 0.65em;
+}
+
+td {
+    text-align: left;
+    padding-left: 40px;
+}
+
+.dashboard-wrapper{
+    margin: 0 auto;
+    width: 100%;
+    min-height: 600px;
+    padding: 20px;
+}
+
+.left-container, .right-container{
+    border: 2px #f2f3f3 solid;
+    border-radius: 3px;
+}
+
+.left-container p.heading, .right-container p.heading{
+    background:  #f2f3f3;
+    height: 36px;
+    line-height: 36px;
+    margin:0px;
+    padding: 0px 10px;
+    font-size: 0.8em;
+    overflow-x: hidden;
+}
+
+.left-container{
+    position: relative;
+    width: 18%;
+    min-height: 300px;
+    float: left;
+}
+
+.right-container{
+    width:80.5%;
+    float:right;
+}

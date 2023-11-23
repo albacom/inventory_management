@@ -1,0 +1,21 @@
+.completed, .in-progress, .on-hold{
+    width:16%;
+    border-radius: 3px;
+    font-size: 14px;
+    text-align: center;
+}
+
+.completed{
+    color:#ffffff;
+    background: #7ac14d;
+}
+
+.in-progress{
+    color:#ffffff;
+    background: #b3d99b;
+}
+
+.on-hold{
+    color:#ffffff;
+    background: #fe4c4a;
+}

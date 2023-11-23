@@ -1,0 +1,17 @@
+.update-shed-form{
+    font-size: 1.6em;
+    height: 350px;
+}
+
+.elements-wrapper .element-wrapper:first-child, .elements-wrapper .element-wrapper:last-child{
+    width:49%;
+}
+
+.modal-title{
+    line-height: 30px;
+}
+
+.element-wrapper:nth-child(3) input,
+.element-wrapper:nth-child(4) input{
+    height: 65px;
+}
